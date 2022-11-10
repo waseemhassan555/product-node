@@ -1,0 +1,65 @@
+[
+  {
+    "id": "62",
+    "name": "mouthwash",
+    "unit_price": 700,
+    "quantity": 2,
+    "created_date": "2022-10-27T04:56:42.228Z"
+  },
+  {
+    "id": "87",
+    "name": "books",
+    "unit_price": 2000,
+    "quantity": 10,
+    "created_date": "2022-10-27T04:34:13.833Z"
+  },
+  {
+    "id": "52",
+    "name": "Laptop",
+    "unit_price": 50000,
+    "quantity": 1,
+    "created_date": "2022-10-27T04:32:03.327Z"
+  },
+  {
+    "id": "2",
+    "name": "Soap",
+    "unit_price": 200,
+    "quantity": 50,
+    "created_date": "2022-10-21T08:11:50.948Z"
+  },
+  {
+    "id": "77",
+    "name": "Soap",
+    "unit_price": 2000,
+    "quantity": 12,
+    "created_date": "2022-10-21T08:07:01.103Z"
+  },
+  {
+    "id": "58",
+    "name": "Soap",
+    "unit_price": 1500,
+    "quantity": 2,
+    "created_date": "2022-10-21T08:02:43.355Z"
+  },
+  {
+    "id": "36",
+    "name": "cereal",
+    "unit_price": 1150,
+    "quantity": 50,
+    "created_date": "2022-10-21T07:57:46.975Z"
+  },
+  {
+    "id": "81",
+    "name": "rubber",
+    "unit_price": 1150,
+    "quantity": 50,
+    "created_date": "2022-10-21T07:57:09.187Z"
+  },
+  {
+    "id": "18",
+    "name": "cupcake",
+    "unit_price": 500,
+    "quantity": 4,
+    "created_date": "2022-10-21T07:54:38.847Z"
+  }
+]
